@@ -74,6 +74,10 @@
 				"answer": "The Wii already has custom servers provided by <a href=\"https://wiimmfi.de/\" target=\"_blank\">Wiimmfi</a>. We currently do not wish to target the Switch as it is both paid and completely different to Nintendo Network."
 			},
 			{
+				"question": "If I use an emulator, will that be enough to use Pretendo?",
+				"answer": "No. For purposes of security and moderation, if you are using an emulator, you are required to dump the relevant system data from a legitimate console to go online on our servers. This allows for improved security and more effective enforcement of rules in order to provide a safe and enjoyable experience with our service.",
+			},
+			{
 				"question": "Will I need hacks to connect?",
 				"answer": "For the best experience on consoles, you will need to hack your system - specifially Aroma for Wii U and Luma3DS for 3DS. However, on Wii U, the hackless SSSL method is also available with limited functionality. See our <a href='/docs/install'>setup instructions</a> for details."
 			},
